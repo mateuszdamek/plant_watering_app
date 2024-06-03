@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\public\\loader.svg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\loader.svg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\AddPlant.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\AddPlant.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\Loader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Loader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\PlantDetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\PlantDetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\PlantList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\PlantList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\WateringLog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\WateringLog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\contexts\\AppContext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\contexts\\AppContext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\store\\plantsSlice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\store\\plantsSlice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\store\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\store\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\Loader.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Loader.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\App.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.test.js",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\App.test.js",
+              "RelativeDocumentMoniker": "src\\App.test.js",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\App.test.js",
+              "RelativeToolTip": "src\\App.test.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T19:01:49.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPlant.js",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\AddPlant.js",
+              "RelativeDocumentMoniker": "src\\components\\AddPlant.js",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\AddPlant.js",
+              "RelativeToolTip": "src\\components\\AddPlant.js",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T18:21:42.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Loader.css",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\Loader.css",
+              "RelativeDocumentMoniker": "src\\components\\Loader.css",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\Loader.css",
+              "RelativeToolTip": "src\\components\\Loader.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-03T18:15:54.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "plantsSlice.js",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\store\\plantsSlice.js",
+              "RelativeDocumentMoniker": "src\\store\\plantsSlice.js",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\store\\plantsSlice.js",
+              "RelativeToolTip": "src\\store\\plantsSlice.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T18:10:53.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WateringLog.js",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\WateringLog.js",
+              "RelativeDocumentMoniker": "src\\components\\WateringLog.js",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\WateringLog.js",
+              "RelativeToolTip": "src\\components\\WateringLog.js",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T18:10:37.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlantDetails.js",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\PlantDetails.js",
+              "RelativeDocumentMoniker": "src\\components\\PlantDetails.js",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\PlantDetails.js",
+              "RelativeToolTip": "src\\components\\PlantDetails.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T18:10:24.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlantList.js",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\PlantList.js",
+              "RelativeDocumentMoniker": "src\\components\\PlantList.js",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\PlantList.js",
+              "RelativeToolTip": "src\\components\\PlantList.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T18:10:13.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-03T17:59:13.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loader.svg",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\public\\loader.svg",
+              "RelativeDocumentMoniker": "public\\loader.svg",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\public\\loader.svg",
+              "RelativeToolTip": "public\\loader.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-03T17:59:02.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.js",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\index.js",
+              "RelativeDocumentMoniker": "src\\index.js",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\index.js",
+              "RelativeToolTip": "src\\index.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T17:58:20.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.js",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\App.js",
+              "RelativeToolTip": "src\\App.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T17:57:17.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loader.js",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\Loader.js",
+              "RelativeDocumentMoniker": "src\\components\\Loader.js",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\Loader.js",
+              "RelativeToolTip": "src\\components\\Loader.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T17:56:52.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.js",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\Home.js",
+              "RelativeDocumentMoniker": "src\\components\\Home.js",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\components\\Home.js",
+              "RelativeToolTip": "src\\components\\Home.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T17:56:31.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppContext.js",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\contexts\\AppContext.js",
+              "RelativeDocumentMoniker": "src\\contexts\\AppContext.js",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\contexts\\AppContext.js",
+              "RelativeToolTip": "src\\contexts\\AppContext.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T17:56:19.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "store.js",
+              "DocumentMoniker": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\store\\store.js",
+              "RelativeDocumentMoniker": "src\\store\\store.js",
+              "ToolTip": "D:\\Projekty VS Code\\Projekt 2\\zaliczenie_app\\iwai_zal_app\\src\\store\\store.js",
+              "RelativeToolTip": "src\\store\\store.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T17:55:43.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
